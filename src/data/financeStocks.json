@@ -1,0 +1,38 @@
+[
+  {
+    "symbol": "JPM",
+    "price": 145.23,
+    "change": -2.67,
+    "changePercent": -1.81
+  },
+  {
+    "symbol": "BAC",
+    "price": 32.89,
+    "change": 0.78,
+    "changePercent": 2.43
+  },
+  {
+    "symbol": "WFC",
+    "price": 41.56,
+    "change": -1.23,
+    "changePercent": -2.88
+  },
+  {
+    "symbol": "GS",
+    "price": 387.45,
+    "change": 8.90,
+    "changePercent": 2.35
+  },
+  {
+    "symbol": "MS",
+    "price": 78.34,
+    "change": -3.45,
+    "changePercent": -4.21
+  },
+  {
+    "symbol": "C",
+    "price": 49.87,
+    "change": 1.56,
+    "changePercent": 3.23
+  }
+]

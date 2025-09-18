@@ -1,0 +1,38 @@
+[
+  {
+    "symbol": "XOM",
+    "price": 112.45,
+    "change": 4.56,
+    "changePercent": 4.22
+  },
+  {
+    "symbol": "CVX",
+    "price": 167.89,
+    "change": -2.34,
+    "changePercent": -1.37
+  },
+  {
+    "symbol": "COP",
+    "price": 134.67,
+    "change": 6.78,
+    "changePercent": 5.30
+  },
+  {
+    "symbol": "SLB",
+    "price": 52.34,
+    "change": -1.89,
+    "changePercent": -3.48
+  },
+  {
+    "symbol": "EOG",
+    "price": 128.90,
+    "change": 3.45,
+    "changePercent": 2.75
+  },
+  {
+    "symbol": "PXD",
+    "price": 245.67,
+    "change": -7.89,
+    "changePercent": -3.11
+  }
+]
